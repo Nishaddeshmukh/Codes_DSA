@@ -22,9 +22,9 @@ https://leetcode.com/problems/smallest-string-starting-from-leaf/description/
 there are 2 separate branch main for c++ and other is for rust . Inside folder, you’ll find the C++ code along with an explanation of the approach used.
 
 main
-├── 032-longest-valid-parentheses
-├── 876-middle-of-the-linked-list
-<!-- same goes for other Rust branch -->
+├── 032-longest-valid-parentheses <br>
+├── 876-middle-of-the-linked-list <br>
+<!-- same goes for other Rust branch --> <br>
 
 ### Contributing
 Feel free to contribute by adding your own solutions or improving existing ones. 

@@ -4,9 +4,9 @@
 ### About
 This repository contains my daily solutions to LeetCode problems in C++. Each day, I’ll solve a new problem and add it here. The goal is to improve my problem-solving skills in rust programming and share my solutions with others.
 
-Table of Contents
-Problem Descriptions
-Solutions
+Table of Contents<br>
+Problem Descriptions<br>
+Solutions<br>
 
 ### Problem Descriptions
 Here’s a list of the problems I’ve solved so far:
@@ -21,7 +21,7 @@ https://leetcode.com/problems/smallest-string-starting-from-leaf/description/
 ### Solutions
 there are 2 separate branch main for c++ and other is for rust . Inside folder, you’ll find the C++ code along with an explanation of the approach used.
 
-main
+main <br>
 ├── 032-longest-valid-parentheses <br>
 ├── 876-middle-of-the-linked-list <br>
 <!-- same goes for other Rust branch --> <br>

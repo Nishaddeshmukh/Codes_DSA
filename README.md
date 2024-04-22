@@ -1,7 +1,7 @@
-Daily LeetCode Problems in C++
+### Daily LeetCode Problems in C++ and Rust
 !LeetCode
 
-**About**
+## About
 This repository contains my daily solutions to LeetCode problems in C++. Each day, I’ll solve a new problem and add it here. The goal is to improve my problem-solving skills in rust programming and share my solutions with others.
 
 Table of Contents
